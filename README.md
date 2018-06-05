@@ -1,6 +1,6 @@
 # vue-ht-cli
 
-> vue-ht-cli
+> the vue-ht-cli
 
 ## Build Setup
 
