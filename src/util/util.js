@@ -249,20 +249,17 @@ export const Log = {
   isConsole: true,
   i: function (jsName, content) {
     if (this.isConsole) {
-      console.info('位置:' + jsName)
-      console.info(content)
+      console.info('位置:', content)
     }
   },
-  l: function (jsName, content) {
+  w: function (jsName, content) {
     if (this.isConsole) {
-      console.log('位置:' + jsName)
-      console.log(content)
+      console.warn('位置:', content)
     }
   },
   e: function (jsName, content) {
     if (this.isConsole) {
-      console.error('位置:' + jsName)
-      console.error(content)
+      console.error('位置:', content)
     }
   }
 }

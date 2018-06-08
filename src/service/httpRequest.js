@@ -21,7 +21,9 @@ class HttpRequest {
   /**
   * url : 请求地址
   * param : 请求参数
-  * header : 需要添加的header,例如:{"Authorization":"xxxxx"}
+  * header : 需要添加的header,例如:{'Authorization':'xxxxx'}
+  * json: 'application/json; charset=utf-8'
+  * form: 'application/x-www-form-urlencoded; charset=utf-8'
   */
   post (url, param, header, method) {
     let headers = {'Content-Type': 'application/json'}
