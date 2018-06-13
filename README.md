@@ -11,7 +11,7 @@
 
 5,集成svg图标库,避免使用图片消耗的资源、并提升显示效果
 
-vue3.0.1+vuex3.0.1+jsonp0.2.1+axios0.18.0+jsonp0.2.1+svg-sprite-loader3.7.3
+vue2.5.2+vuex3.0.1+jsonp0.2.1+axios0.18.0+jsonp0.2.1+svg-sprite-loader3.7.3
 ```
 ## Build Setup
 
