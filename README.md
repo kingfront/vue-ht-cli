@@ -1,7 +1,18 @@
-# vue-ht-cli
+## 框架介绍
+> 基于vue-cli的快速规范开发框架,已封装常用组件,可直接进行基本项目开发
+``` bash
+1,遵循eslint规则,提升代码质量
 
-> the vue-ht-cli
+2,集成mock模拟服务端数据,提升开发效率
 
+3,集成vuex,可直接使用开发
+
+4,封装axios、jsonp,解决基本服务端接口请求
+
+5,集成svg图标库,避免使用图片消耗的资源、并提升显示效果
+
+vue3.0.1+vuex3.0.1+jsonp0.2.1+axios0.18.0+jsonp0.2.1+svg-sprite-loader3.7.3
+```
 ## Build Setup
 
 ``` bash
