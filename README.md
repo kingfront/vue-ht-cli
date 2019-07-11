@@ -8,7 +8,7 @@
 
 3,集成vuex可直接使用开发
 
-4,封装axios、jsonp,util解决基本服务端接口请求
+4,封装axios、jsonp、util解决基本服务端接口请求
 
 5,集成vant 移动端ui
 
