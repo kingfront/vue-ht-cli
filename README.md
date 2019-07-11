@@ -1,5 +1,5 @@
-## vue-ht-cli
-# 框架介绍
+# vue-ht-cli
+## 框架介绍
 基于vue-cli的快速规范开发框架,已封装常用组件,可直接进行基本项目开发
 
 1,遵循eslint规则,提升代码质量
@@ -12,7 +12,7 @@
 
 5,集成vant 移动端ui
 
-# 示例图
+## 示例图
 
 ![image](https://github.com/kingfront/vue-ht-cli/blob/master/img/demo1.png)
 ![image](https://github.com/kingfront/vue-ht-cli/blob/master/img/demo2.png)
