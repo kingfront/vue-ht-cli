@@ -1,6 +1,6 @@
 {
-  "name": "cli_test",
-  "version": "0.1.0",
+  "name": "vue-ht-cli",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
