@@ -11,6 +11,11 @@
 4,封装axios、jsonp,util解决基本服务端接口请求
 
 5,集成vant 移动端ui
+
+示例图
+
+![image](https://github.com/kingfront/vue-ht-cli/blob/master/img/demo1.png)
+![image](https://github.com/kingfront/vue-ht-cli/blob/master/img/demo2.png)
 ## Project setup
 ```
 npm install
