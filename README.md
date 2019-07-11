@@ -46,5 +46,5 @@ npm run lint
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 更多vue cli使用请参考博客
+https://www.cnblogs.com/front-web
